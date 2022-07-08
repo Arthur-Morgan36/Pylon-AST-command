@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "JS",
+    "target": "esnext",
+    "strict": true,
+    "watch": true,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "lib": ["dom", "es2021", "dom.iterable"],
+    "module": "esNext"
+  }
+}

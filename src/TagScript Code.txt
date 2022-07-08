@@ -1,7 +1,7 @@
 Tag link: https://carl.gg/t/1236523
 
 Tag content
-------------------------
+------------------------------------------------------------------
 
 {=(gray):30}
 {=(red):31}
@@ -27,7 +27,7 @@ Tag content
 {=(bracket):{p}{red}m}
 
 {=(COMMENT):Math & Boolean Operator
- == != >= <= | + / * ~ , ( ) __ ^ - : $}
+== != >= <= | + / * ~ , ( ) __ ^ - : $}
 {=(operator):{p}{blue}m}
 
 {=(COMMENT):Boolean
